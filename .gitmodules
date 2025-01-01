@@ -1,0 +1,3 @@
+[submodule "PrintMQTTify"]
+	path = PrintMQTTify
+	url = https://github.com/Aesgarth/PrintMQTTify.git
