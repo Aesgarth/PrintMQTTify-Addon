@@ -1,0 +1,11 @@
+{
+  "name": "PrintMQTTify",
+  "slug": "printmqttify",
+  "description": "A Home Assistant add-on to bridge MQTT messages to a printer.",
+  "version": "1.0",
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "image": "local/printmqttify:latest"
+}
